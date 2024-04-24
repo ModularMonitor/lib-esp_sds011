@@ -1,3 +1,5 @@
+#pragma once
+
 /*
 esp_sds011.cpp
 

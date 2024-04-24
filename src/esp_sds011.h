@@ -182,3 +182,5 @@ protected:
 };
 
 #endif // _ESP_SDS011_H
+
+#include "esp_sds011.ipp"
